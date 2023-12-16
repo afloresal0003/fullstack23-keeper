@@ -29,7 +29,7 @@ npm run start
 
 
 ## Demo
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Watch this video for a setup and app walkthrough!](https://i.vimeocdn.com/video/1769709954-34598cba738b88731832fc86919f6c14b52cbe6e006b1a9a06d7a9d6841e1373-d_260x146)](https://vimeo.com/895178382?share=copy)
 
 
 
