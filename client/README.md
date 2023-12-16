@@ -6,16 +6,12 @@ The Keeper App allows you to create and delete notes!
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Setup](#setup)
 - [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Setup
 
-All setup I did was installing the respective packages which can be seen in package.json. Then in two separate terminals, run the server and client with:
+All setup I did was installing the respective packages which can be seen in package.json. Then in two separate terminals, run the server and client:
 
 ```bash
 # Server
@@ -28,3 +24,9 @@ npm run dev
 npm install
 npm run start
 ```
+
+
+## Technologies Used
+
+HTML, CSS, ReactJS, NodeJS, Express, MongoDB
+
