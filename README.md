@@ -15,12 +15,14 @@ All setup I did was installing the respective packages which can be seen in pack
 
 ```bash
 # Server
+cd server
 npm install express mongoose@7.6.3 dotenv nodemon body-parser cors
 npm run dev
 ```
 
 ```bash
 # Client
+cd client
 npm install
 npm run start
 ```
